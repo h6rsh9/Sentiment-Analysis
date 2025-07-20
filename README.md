@@ -13,3 +13,5 @@ Languages: Python
 Libraries: scikit-learn, NLTK / spaCy, pandas, matplotlib, seaborn
 (Optional) TensorFlow / PyTorch for deep learning 
 Environment: Jupyter Notebook / Google Colab / Streamlit 
+<img width="1033" height="555" alt="image" src="https://github.com/user-attachments/assets/140540f7-74c8-48db-bcc1-cf9b2731c50c" />
+
