@@ -11,5 +11,5 @@ Visualization: Sentiment distribution and confusion matrix for model comparison
 Technologies Used:
 Languages: Python
 Libraries: scikit-learn, NLTK / spaCy, pandas, matplotlib, seaborn
-(Optional) TensorFlow / PyTorch for deep learning (if applicable)
-Environment: Jupyter Notebook / Google Colab / Streamlit (if deployed)
+(Optional) TensorFlow / PyTorch for deep learning 
+Environment: Jupyter Notebook / Google Colab / Streamlit 
